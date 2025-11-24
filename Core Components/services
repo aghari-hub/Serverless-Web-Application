@@ -1,0 +1,7 @@
+1.AWS Lambda: The "serverless compute" service where your backend code runs in response to events, such as an HTTP request from the API Gateway. It handles the business logic without requiring you to provision or manage servers.
+
+2.Amazon API Gateway: Acts as the secure "front door" for your application, receiving API calls (e.g., REST or HTTP APIs) from the web application and routing them to the appropriate Lambda function. It handles authorization, access control, and traffic management.
+
+3.Amazon DynamoDB: A fully managed NoSQL database service used for storing and retrieving data with fast, predictable performance. It automatically scales to handle massive amounts of traffic without needing database server management
+
+4.Amazon S3 / AWS Amplify (for Frontend): The static front-end web assets (HTML, CSS, JavaScript) are typically hosted on Amazon S3 or managed via AWS Amplify, and accessed by the user's browser. The frontend then makes JavaScript calls to the API Gateway endpoint.
