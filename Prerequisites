@@ -1,0 +1,7 @@
+
+- An active AWS account
+- Basic knowledge of API, Lambda, and event-driven architectures
+- AWS CLI and AWS SAM CLI (optional but recommended)
+- Lambda function code (Python / Node.js)
+- Understanding of DynamoDB schema design
+- Postman / curl for API testing
